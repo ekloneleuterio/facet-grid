@@ -1,0 +1,9 @@
+name: facet-grid
+description: Python template using seaborn facet-grid chart visualization
+types:
+  - app-template
+inputs:
+  - label: Project name
+    type: text
+    name: project_name
+    default: project-name
