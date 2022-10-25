@@ -6,6 +6,8 @@ Template for Python using seaborn charts library
 
 ## Objective
 * This template is focused on the use of Python seaborn library
+* This stack will load an examples of code with all libraries needed for the use of facet-grid chart from seaborn library.
+* You need the insert your data to have real data charts.
 
 ## Prerequisites
 - Programming Language: Python :snake:
